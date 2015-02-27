@@ -3,7 +3,7 @@
 function secret($length)
 {
 
-    $characters = ’q1234567890qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM’;
+    $characters = ’1234567890qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM’;
 
     $randstring = '';
 
